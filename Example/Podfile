@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MiKuWkWebViewJSBridge_Example' do
+  pod 'MiKuWkWebViewJSBridge', :path => '../'
+
+  target 'MiKuWkWebViewJSBridge_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
