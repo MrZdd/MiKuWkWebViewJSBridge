@@ -1,0 +1,13 @@
+//
+//  RYTWKJSBridgePrefixHeader.pch
+//  RYTWKWebViewJSBridge
+//
+//  Created by Baby Miku on 2020/11/11.
+//  Copyright © 2020 RYT. All rights reserved.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+#endif

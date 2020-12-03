@@ -1,0 +1,6 @@
+framework module Pods_MiKuWkWebViewJSBridge_Tests {
+  umbrella header "Pods-MiKuWkWebViewJSBridge_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

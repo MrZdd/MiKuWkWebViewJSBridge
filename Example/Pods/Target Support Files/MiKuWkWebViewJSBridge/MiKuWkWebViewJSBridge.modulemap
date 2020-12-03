@@ -1,0 +1,6 @@
+framework module MiKuWkWebViewJSBridge {
+  umbrella header "MiKuWkWebViewJSBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}

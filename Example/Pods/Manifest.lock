@@ -1,0 +1,16 @@
+PODS:
+  - MiKuWkWebViewJSBridge (0.1.0)
+
+DEPENDENCIES:
+  - MiKuWkWebViewJSBridge (from `../`)
+
+EXTERNAL SOURCES:
+  MiKuWkWebViewJSBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MiKuWkWebViewJSBridge: 4616ecd380bf6b30dc3963f9bf471b37eceb9d89
+
+PODFILE CHECKSUM: 428e1d0f6e8d27d7f137767a3457193f8079d7f8
+
+COCOAPODS: 1.9.3
